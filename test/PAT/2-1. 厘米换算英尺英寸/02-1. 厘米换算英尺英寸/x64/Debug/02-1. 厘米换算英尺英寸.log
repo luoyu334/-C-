@@ -1,0 +1,4 @@
+﻿  test.c
+F:\Code\PAT\02-1. 厘米换算英尺英寸\test.c(7,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\Code\PAT\02-1. 厘米换算英尺英寸\test.c(8,33): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  02-1. 厘米换算英尺英寸.vcxproj -> F:\Code\PAT\02-1. 厘米换算英尺英寸\x64\Debug\02-1. 厘米换算英尺英寸.exe
